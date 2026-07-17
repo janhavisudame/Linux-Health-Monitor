@@ -141,49 +141,6 @@ chmod +x health_dashboard.sh
 
 ---
 
-## 📸 Sample Output
-
-```text
-============================================================
-           LINUX HEALTH MONITORING DASHBOARD
-============================================================
-
-System Information
-------------------------------------------------------------
-Hostname         : ip-172-31-15-168
-Current User     : ec2-user
-Operating System : Amazon Linux 2023
-Kernel Version   : 6.x
-Current Date     : Fri Jul 17
-
-CPU Information
-------------------------------------------------------------
-CPU Usage        : 12%
-Load Average     : 0.14, 0.18, 0.22
-
-Memory Information
-------------------------------------------------------------
-Total Memory     : 964 MiB
-Used Memory      : 312 MiB
-Free Memory      : 652 MiB
-
-Disk Information
-------------------------------------------------------------
-Disk Usage       : 30%
-
-Network Information
-------------------------------------------------------------
-IP Address       : 172.31.xx.xx
-
-Alerts
-------------------------------------------------------------
-No Alerts
-
-============================================================
-```
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this project, I gained practical experience with:
@@ -199,6 +156,11 @@ Through this project, I gained practical experience with:
 * Writing technical documentation
 
 ---
+## 📸 Screenshots
+
+### Dashboard
+<img width="659" height="761" alt="dashboard" src="https://github.com/user-attachments/assets/1b56a327-2a35-4d92-b708-88a7de6524e4" />
+
 
 
 
