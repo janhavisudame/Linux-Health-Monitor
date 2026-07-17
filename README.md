@@ -33,7 +33,7 @@ showcasing how powerful Linux command-line utilities can be combined to automate
 * ⚙️ Monitors CPU performance
 
   * CPU usage
-  * System load average
+  * Load average
 
 * 💾 Monitors memory usage
 
@@ -43,10 +43,7 @@ showcasing how powerful Linux command-line utilities can be combined to automate
 
 * 💿 Monitors disk usage
 
-  * Total disk size
-  * Used space
-  * Available space
-  * Disk usage percentage
+  * Disk usage 
 
 * 🌐 Displays network information
 
@@ -57,8 +54,6 @@ showcasing how powerful Linux command-line utilities can be combined to automate
   * CPU usage threshold
   * Memory usage threshold
   * Disk usage threshold
-
-* 📄 Clean and organized terminal output
 
 ---
 
@@ -110,34 +105,6 @@ Some of the commands used include:
 | `top`         | Retrieve CPU usage                          |
 | `awk`         | Extract specific fields from command output |
 | `grep`        | Filter required information                 |
-
----
-
-## 🚀 Getting Started
-
-### Clone the repository
-
-```bash
-git clone https://github.com/janhavisudame/Linux-Health-Monitor.git
-```
-
-### Navigate to the project directory
-
-```bash
-cd Linux-Health-Monitor
-```
-
-### Give execute permission
-
-```bash
-chmod +x health_dashboard.sh
-```
-
-### Run the dashboard
-
-```bash
-./health_dashboard.sh
-```
 
 ---
 
